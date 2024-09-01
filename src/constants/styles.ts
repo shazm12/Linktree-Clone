@@ -1,0 +1,1 @@
+export const ADD_BUTTON_STYLES="bg-violet-500 text-neutral-50 px-4 py-2 rounded-full";
